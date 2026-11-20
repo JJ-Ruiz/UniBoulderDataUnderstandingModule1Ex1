@@ -1,0 +1,1 @@
+I analyzed five years of daily data for 11 popular US stocks and an index ETF with pandas, measuring typical returns, risk (volatility, IQR, crash days) and correlations to see which stocks are riskiest and how much they really diversify each other.
